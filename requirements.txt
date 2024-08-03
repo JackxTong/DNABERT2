@@ -5,3 +5,4 @@ omegaconf
 torch
 evaluate
 accelerate
+scikit-learn
