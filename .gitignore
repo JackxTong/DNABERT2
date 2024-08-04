@@ -1,5 +1,7 @@
 .idea/*
-*/output/*
+# */output/*
+finetune/output/dnabert2/*/optimizer.pt
+finetune/output/dnabert2/*/pytorch_model.bin
 models/*
 */wandb/*
 dna_venv
